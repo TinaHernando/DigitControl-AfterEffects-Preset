@@ -1,0 +1,5 @@
+Copia el archivo ffx y entra en:
+
+C:\Program Files\Adobe\Adobe After Effects 2021\Support Files\Presets
+
+Elegir la carpeta que más se ajuste a la categoría del preset que quieres instalar, pegar y voila! tu animación estará desponible dentro del panel de efectos de after o se puede buscar desde el fx consoler ;)
